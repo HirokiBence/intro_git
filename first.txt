@@ -7,3 +7,4 @@ Gitの練習をしていきます。
 ・git diff
 
 Gitの練習を再開します。
+git commit --amend
